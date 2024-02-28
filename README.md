@@ -1,4 +1,4 @@
-# orga-computadoras
+# Trabajo Práctico - Organización del Computador
 
 ## Enunciado:
 ### Líneas ferroviarias Light
