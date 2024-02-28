@@ -4,7 +4,8 @@
 ### Líneas ferroviarias Light
 * Se tiene una lista de estaciones de ferrocarril. A efectos de simplificar, los nombres de las estaciones han sido reemplazados por 1, 2, ..., n-1, n donde n <= 20 es el número total de estaciones. Se tiene, además, una lista de los tramos de vía que unen, directamente entre sí, estaciones contiguas. Los tramos de vía pueden utilizarse en ambos sentidos.
 Escribir un programa en assembler Intel 80x86 que lea n y la lista de tramos. Luego, agrupar las estaciones en líneas, donde una línea se define como un conjunto de estaciones alcanzables entre sí, y listarlas.
-Ejemplo:
+
+### Ejemplo:
 * Input:
 n = 9 y los tramos son (8,1), (3,6), (4,9), (1,7), (2,7), (1,4), (5,4) y (1,9)
 * Output:
